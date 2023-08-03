@@ -19,7 +19,7 @@
     <a href="https://github.com/JuanEstebanCarlier/investment-calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/channel/UCiAvkixUEqjnc_1dJ_f282A">View Demo</a>
+    <a href="https://youtu.be/0XdjKdnzCco">View Demo</a>
 
   </p>
 </div>
